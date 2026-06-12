@@ -1,3 +1,4 @@
 .env
 tele-env/
 *.pyc
+__pycache__
